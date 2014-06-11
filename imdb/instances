@@ -1,0 +1,644 @@
+	<instance id="Nothing Bad Can Happen" >
+		<att name="Titulo" value="Nothing Bad Can Happen" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="German;" />
+		<att name="Nota" value="7.1" />
+		<att name="Genero" value="Drama;" />
+	</instance>
+	<instance id="Downfall" >
+		<att name="Titulo" value="Downfall" />
+		<att name="Ano" value="2004" />
+		<att name="Idioma" value="German; Russian; Hungarian;" />
+		<att name="Nota" value="8.3" />
+		<att name="Genero" value="Biography; Drama; History;" />
+	</instance>
+	<instance id="Das Boot" >
+		<att name="Titulo" value="Das Boot" />
+		<att name="Ano" value="1981" />
+		<att name="Idioma" value="German; English; French;" />
+		<att name="Nota" value="8.5" />
+		<att name="Genero" value="Action; Adventure; Drama;" />
+	</instance>
+	<instance id="The Lives of Others" >
+		<att name="Titulo" value="The Lives of Others" />
+		<att name="Ano" value="2006" />
+		<att name="Idioma" value="German;" />
+		<att name="Nota" value="8.5" />
+		<att name="Genero" value="Drama; Thriller;" />
+	</instance>
+	<instance id="The Wave" >
+		<att name="Titulo" value="The Wave" />
+		<att name="Ano" value="2008" />
+		<att name="Idioma" value="German;" />
+		<att name="Nota" value="7.6" />
+		<att name="Genero" value="Drama; Thriller;" />
+	</instance>
+	<instance id="Oldboy" >
+		<att name="Titulo" value="Oldboy" />
+		<att name="Ano" value="2003" />
+		<att name="Idioma" value="Korean;" />
+		<att name="Nota" value="8.4" />
+		<att name="Genero" value="Drama; Mystery; Thriller;" />
+	</instance>
+	<instance id="I Saw the Devil" >
+		<att name="Titulo" value="I Saw the Devil" />
+		<att name="Ano" value="2010" />
+		<att name="Idioma" value="Korean;" />
+		<att name="Nota" value="7.8" />
+		<att name="Genero" value="Crime; Drama; Thriller;" />
+	</instance>
+	<instance id="The Host" >
+		<att name="Titulo" value="The Host" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="5.9" />
+		<att name="Genero" value="Adventure; Romance; Sci-Fi;" />
+	</instance>
+	<instance id="New World" >
+		<att name="Titulo" value="New World" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="Korean; Mandarin;" />
+		<att name="Nota" value="7.6" />
+		<att name="Genero" value="Crime; Thriller;" />
+	</instance>
+	<instance id="Lady Vengeance" >
+		<att name="Titulo" value="Lady Vengeance" />
+		<att name="Ano" value="2005" />
+		<att name="Idioma" value="Korean; English; Japanese;" />
+		<att name="Nota" value="7.7" />
+		<att name="Genero" value="Crime; Drama; Thriller;" />
+	</instance>
+	<instance id="City of God" >
+		<att name="Titulo" value="City of God" />
+		<att name="Ano" value="2002" />
+		<att name="Idioma" value="Portuguese;" />
+		<att name="Nota" value="8.7" />
+		<att name="Genero" value="Crime; Drama;" />
+	</instance>
+	<instance id="Elite Squad" >
+		<att name="Titulo" value="Elite Squad" />
+		<att name="Ano" value="2007" />
+		<att name="Idioma" value="Portuguese;" />
+		<att name="Nota" value="8.1" />
+		<att name="Genero" value="Action; Crime; Drama;" />
+	</instance>
+	<instance id="Elite Squad: The Enemy Within" >
+		<att name="Titulo" value="Elite Squad: The Enemy Within" />
+		<att name="Ano" value="2010" />
+		<att name="Idioma" value="Portuguese;" />
+		<att name="Nota" value="8.1" />
+		<att name="Genero" value="Action; Crime; Drama;" />
+	</instance>
+	<instance id="Carandiru" >
+		<att name="Titulo" value="Carandiru" />
+		<att name="Ano" value="2003" />
+		<att name="Idioma" value="Portuguese;" />
+		<att name="Nota" value="7.6" />
+		<att name="Genero" value="Drama; Crime;" />
+	</instance>
+	<instance id="Pan's Labyrinth" >
+		<att name="Titulo" value="Pan's Labyrinth" />
+		<att name="Ano" value="2006" />
+		<att name="Idioma" value="Spanish;" />
+		<att name="Nota" value="8.3" />
+		<att name="Genero" value="Drama; Fantasy; War;" />
+	</instance>
+	<instance id="The Skin I Live In" >
+		<att name="Titulo" value="The Skin I Live In" />
+		<att name="Ano" value="2011" />
+		<att name="Idioma" value="Spanish;" />
+		<att name="Nota" value="7.6" />
+		<att name="Genero" value="Drama; Horror; Thriller;" />
+	</instance>
+	<instance id="[Rec]" >
+		<att name="Titulo" value="[Rec]" />
+		<att name="Ano" value="2007" />
+		<att name="Idioma" value="Spanish; Japanese;" />
+		<att name="Nota" value="7.5" />
+		<att name="Genero" value="Horror; Mystery;" />
+	</instance>
+	<instance id="The Legend of Zorro" >
+		<att name="Titulo" value="The Legend of Zorro" />
+		<att name="Ano" value="2005" />
+		<att name="Idioma" value="Spanish; English;" />
+		<att name="Nota" value="5.9" />
+		<att name="Genero" value="Action; Adventure; Western;" />
+	</instance>
+	<instance id="The Orphanage" >
+		<att name="Titulo" value="The Orphanage" />
+		<att name="Ano" value="2007" />
+		<att name="Idioma" value="Spanish;" />
+		<att name="Nota" value="7.5" />
+		<att name="Genero" value="Drama; Mystery; Thriller;" />
+	</instance>
+	<instance id="Badges of Fury" >
+		<att name="Titulo" value="Badges of Fury" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="Chinese;" />
+		<att name="Nota" value="4.6" />
+		<att name="Genero" value="Action; Comedy; Crime;" />
+	</instance>
+	<instance id="What Women Want" >
+		<att name="Titulo" value="What Women Want" />
+		<att name="Ano" value="2000" />
+		<att name="Idioma" value="English; French;" />
+		<att name="Nota" value="6.4" />
+		<att name="Genero" value="Comedy; Fantasy; Romance;" />
+	</instance>
+	<instance id="Sacrifice" >
+		<att name="Titulo" value="Sacrifice" />
+		<att name="Ano" value="2012" />
+		<att name="Idioma" value="N/A;" />
+		<att name="Nota" value="7.9" />
+		<att name="Genero" value="Short; Horror;" />
+	</instance>
+	<instance id="Lucky Dog" >
+		<att name="Titulo" value="Lucky Dog" />
+		<att name="Ano" value="2008" />
+		<att name="Idioma" value="Chinese;" />
+		<att name="Nota" value="7.4" />
+		<att name="Genero" value="Drama;" />
+	</instance>
+	<instance id="Feast of Villains" >
+		<att name="Titulo" value="Feast of Villains" />
+		<att name="Ano" value="2008" />
+		<att name="Idioma" value="N/A;" />
+		<att name="Nota" value="7.5" />
+		<att name="Genero" value="Drama;" />
+	</instance>
+	<instance id="The Good, the Bad and the Ugly" >
+		<att name="Titulo" value="The Good, the Bad and the Ugly" />
+		<att name="Ano" value="1966" />
+		<att name="Idioma" value="Italian;" />
+		<att name="Nota" value="9.0" />
+		<att name="Genero" value="Adventure; Western;" />
+	</instance>
+	<instance id="Life Is Beautiful" >
+		<att name="Titulo" value="Life Is Beautiful" />
+		<att name="Ano" value="1997" />
+		<att name="Idioma" value="Italian; German; English;" />
+		<att name="Nota" value="8.6" />
+		<att name="Genero" value="Comedy; Drama; Romance;" />
+	</instance>
+	<instance id="The Great Beauty" >
+		<att name="Titulo" value="The Great Beauty" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="Italian; Japanese; Spanish; Chinese;" />
+		<att name="Nota" value="7.7" />
+		<att name="Genero" value="Comedy; Drama;" />
+	</instance>
+	<instance id="A Fistful of Dollars" >
+		<att name="Titulo" value="A Fistful of Dollars" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="5.8" />
+		<att name="Genero" value="Reality-TV;" />
+	</instance>
+	<instance id="La Dolce Vita" >
+		<att name="Titulo" value="La Dolce Vita" />
+		<att name="Ano" value="1960" />
+		<att name="Idioma" value="Italian; English; French; German;" />
+		<att name="Nota" value="8.1" />
+		<att name="Genero" value="Comedy; Drama;" />
+	</instance>
+	<instance id="Blue Is the Warmest Color" >
+		<att name="Titulo" value="Blue Is the Warmest Color" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="French; English;" />
+		<att name="Nota" value="8.0" />
+		<att name="Genero" value="Drama; Romance;" />
+	</instance>
+	<instance id="The Intouchables" >
+		<att name="Titulo" value="The Intouchables" />
+		<att name="Ano" value="2011" />
+		<att name="Idioma" value="French; English;" />
+		<att name="Nota" value="8.6" />
+		<att name="Genero" value="Biography; Comedy; Drama;" />
+	</instance>
+	<instance id="Irreversible" >
+		<att name="Titulo" value="Irreversible" />
+		<att name="Ano" value="2002" />
+		<att name="Idioma" value="French; Spanish; Italian; English;" />
+		<att name="Nota" value="7.4" />
+		<att name="Genero" value="Crime; Drama; Mystery;" />
+	</instance>
+	<instance id="Stranger by the Lake" >
+		<att name="Titulo" value="Stranger by the Lake" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="French;" />
+		<att name="Nota" value="7.0" />
+		<att name="Genero" value="Drama; Thriller;" />
+	</instance>
+	<instance id="3 Idiots" >
+		<att name="Titulo" value="3 Idiots" />
+		<att name="Ano" value="2009" />
+		<att name="Idioma" value="Hindi; Urdu; English;" />
+		<att name="Nota" value="8.5" />
+		<att name="Genero" value="Comedy; Drama; Romance;" />
+	</instance>
+	<instance id="Gunday" >
+		<att name="Titulo" value="Gunday" />
+		<att name="Ano" value="2014" />
+		<att name="Idioma" value="Hindi; Bengali;" />
+		<att name="Nota" value="1.5" />
+		<att name="Genero" value="Action; Crime; Drama;" />
+	</instance>
+	<instance id="Lagaan: Once Upon a Time in India" >
+		<att name="Titulo" value="Lagaan: Once Upon a Time in India" />
+		<att name="Ano" value="2001" />
+		<att name="Idioma" value="Hindi; English; Awadhi; Urdu;" />
+		<att name="Nota" value="8.3" />
+		<att name="Genero" value="Adventure; Drama; Musical;" />
+	</instance>
+	<instance id="Queen" >
+		<att name="Titulo" value="Queen" />
+		<att name="Ano" value="2014" />
+		<att name="Idioma" value="Hindi;" />
+		<att name="Nota" value="8.8" />
+		<att name="Genero" value="Comedy; Drama;" />
+	</instance>
+	<instance id="Spirited Away" >
+		<att name="Titulo" value="Spirited Away" />
+		<att name="Ano" value="2001" />
+		<att name="Idioma" value="Japanese;" />
+		<att name="Nota" value="8.6" />
+		<att name="Genero" value="Animation; Adventure; Family;" />
+	</instance>
+	<instance id="Godzilla" >
+		<att name="Titulo" value="Godzilla" />
+		<att name="Ano" value="1998" />
+		<att name="Idioma" value="English; French; Japanese; Russian; Spanish;" />
+		<att name="Nota" value="5.3" />
+		<att name="Genero" value="Action; Sci-Fi; Thriller;" />
+	</instance>
+	<instance id="The Wind Rises" >
+		<att name="Titulo" value="The Wind Rises" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="Japanese; German; Italian; French;" />
+		<att name="Nota" value="8.0" />
+		<att name="Genero" value="Animation; Biography; Drama;" />
+	</instance>
+	<instance id="Princess Mononoke" >
+		<att name="Titulo" value="Princess Mononoke" />
+		<att name="Ano" value="1997" />
+		<att name="Idioma" value="Japanese;" />
+		<att name="Nota" value="8.5" />
+		<att name="Genero" value="Animation; Adventure; Fantasy;" />
+	</instance>
+	<instance id="Seven Samurai" >
+		<att name="Titulo" value="Seven Samurai" />
+		<att name="Ano" value="1954" />
+		<att name="Idioma" value="Japanese;" />
+		<att name="Nota" value="8.8" />
+		<att name="Genero" value="Action; Drama;" />
+	</instance>
+	<instance id="My Neighbor Totoro" >
+		<att name="Titulo" value="My Neighbor Totoro" />
+		<att name="Ano" value="1988" />
+		<att name="Idioma" value="Japanese;" />
+		<att name="Nota" value="8.3" />
+		<att name="Genero" value="Animation; Family; Fantasy;" />
+	</instance>
+	<instance id="Battle Royale" >
+		<att name="Titulo" value="Battle Royale" />
+		<att name="Ano" value="2000" />
+		<att name="Idioma" value="Japanese;" />
+		<att name="Nota" value="7.8" />
+		<att name="Genero" value="Adventure; Drama; Thriller;" />
+	</instance>
+	<instance id="Stalingrad" >
+		<att name="Titulo" value="Stalingrad" />
+		<att name="Ano" value="1993" />
+		<att name="Idioma" value="German; Russian;" />
+		<att name="Nota" value="7.5" />
+		<att name="Genero" value="Drama; War;" />
+	</instance>
+	<instance id="Stalker" >
+		<att name="Titulo" value="Stalker" />
+		<att name="Ano" value="1979" />
+		<att name="Idioma" value="Russian;" />
+		<att name="Nota" value="8.2" />
+		<att name="Genero" value="Drama; Sci-Fi;" />
+	</instance>
+	<instance id="Night Watch" >
+		<att name="Titulo" value="Night Watch" />
+		<att name="Ano" value="2004" />
+		<att name="Idioma" value="Russian; German;" />
+		<att name="Nota" value="6.5" />
+		<att name="Genero" value="Action; Fantasy; Thriller;" />
+	</instance>
+	<instance id="Day Watch" >
+		<att name="Titulo" value="Day Watch" />
+		<att name="Ano" value="2006" />
+		<att name="Idioma" value="Russian;" />
+		<att name="Nota" value="6.6" />
+		<att name="Genero" value="Action; Fantasy; Thriller;" />
+	</instance>
+	<instance id="Solaris" >
+		<att name="Titulo" value="Solaris" />
+		<att name="Ano" value="2002" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="6.2" />
+		<att name="Genero" value="Drama; Mystery; Romance;" />
+	</instance>
+	<instance id="Edge of Tomorrow" >
+		<att name="Titulo" value="Edge of Tomorrow" />
+		<att name="Ano" value="2014" />
+		<att name="Idioma" value="N/A;" />
+		<att name="Nota" value="N/A" />
+		<att name="Genero" value="Comedy;" />
+	</instance>
+	<instance id="The Amazing Spider-Man" >
+		<att name="Titulo" value="The Amazing Spider-Man" />
+		<att name="Ano" value="2012" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.1" />
+		<att name="Genero" value="Action; Adventure; Fantasy;" />
+	</instance>
+	<instance id="Transformers" >
+		<att name="Titulo" value="Transformers" />
+		<att name="Ano" value="2007" />
+		<att name="Idioma" value="English; Spanish;" />
+		<att name="Nota" value="7.2" />
+		<att name="Genero" value="Action; Adventure; Sci-Fi;" />
+	</instance>
+	<instance id="Avengers" >
+		<att name="Titulo" value="Avengers" />
+		<att name="Ano" value="1987" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="5.0" />
+		<att name="Genero" value="Action;" />
+	</instance>
+	<instance id="X-Men" >
+		<att name="Titulo" value="X-Men" />
+		<att name="Ano" value="2000" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.4" />
+		<att name="Genero" value="Action; Adventure; Sci-Fi;" />
+	</instance>
+	<instance id="Captain America" >
+		<att name="Titulo" value="Captain America" />
+		<att name="Ano" value="1990" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="3.2" />
+		<att name="Genero" value="Action; Sci-Fi; Thriller;" />
+	</instance>
+	<instance id="Star Wars" >
+		<att name="Titulo" value="Star Wars" />
+		<att name="Ano" value="1983" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.3" />
+		<att name="Genero" value="Action; Adventure; Sci-Fi;" />
+	</instance>
+	<instance id="RoboCop" >
+		<att name="Titulo" value="RoboCop" />
+		<att name="Ano" value="1987" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.5" />
+		<att name="Genero" value="Action; Crime; Sci-Fi;" />
+	</instance>
+	<instance id="The Expendables" >
+		<att name="Titulo" value="The Expendables" />
+		<att name="Ano" value="2010" />
+		<att name="Idioma" value="English; Spanish;" />
+		<att name="Nota" value="6.5" />
+		<att name="Genero" value="Action; Adventure; Thriller;" />
+	</instance>
+	<instance id="Sin City" >
+		<att name="Titulo" value="Sin City" />
+		<att name="Ano" value="2005" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.2" />
+		<att name="Genero" value="Crime; Mystery; Thriller;" />
+	</instance>
+	<instance id="Toy Story" >
+		<att name="Titulo" value="Toy Story" />
+		<att name="Ano" value="1995" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.3" />
+		<att name="Genero" value="Animation; Adventure; Comedy;" />
+	</instance>
+	<instance id="The Lion King" >
+		<att name="Titulo" value="The Lion King" />
+		<att name="Ano" value="1994" />
+		<att name="Idioma" value="English; Swahili; Xhosa; Zulu;" />
+		<att name="Nota" value="8.5" />
+		<att name="Genero" value="Animation; Adventure; Drama;" />
+	</instance>
+	<instance id="Sleeping Beauty" >
+		<att name="Titulo" value="Sleeping Beauty" />
+		<att name="Ano" value="1959" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.4" />
+		<att name="Genero" value="Animation; Family; Fantasy;" />
+	</instance>
+	<instance id="Tarzan" >
+		<att name="Titulo" value="Tarzan" />
+		<att name="Ano" value="1999" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.2" />
+		<att name="Genero" value="Animation; Adventure; Drama;" />
+	</instance>
+	<instance id="Despicable Me" >
+		<att name="Titulo" value="Despicable Me" />
+		<att name="Ano" value="2010" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.7" />
+		<att name="Genero" value="Animation; Comedy; Crime;" />
+	</instance>
+	<instance id="Mulan" >
+		<att name="Titulo" value="Mulan" />
+		<att name="Ano" value="1998" />
+		<att name="Idioma" value="English; Mandarin;" />
+		<att name="Nota" value="7.5" />
+		<att name="Genero" value="Animation; Adventure; Family;" />
+	</instance>
+	<instance id="Finding Nemo" >
+		<att name="Titulo" value="Finding Nemo" />
+		<att name="Ano" value="2003" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.2" />
+		<att name="Genero" value="Animation; Adventure; Comedy;" />
+	</instance>
+	<instance id="Monsters, Inc." >
+		<att name="Titulo" value="Monsters, Inc." />
+		<att name="Ano" value="2001" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.1" />
+		<att name="Genero" value="Animation; Adventure; Comedy;" />
+	</instance>
+	<instance id="Aladdin" >
+		<att name="Titulo" value="Aladdin" />
+		<att name="Ano" value="1992" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.0" />
+		<att name="Genero" value="Animation; Adventure; Comedy;" />
+	</instance>
+	<instance id="Frozen" >
+		<att name="Titulo" value="Frozen" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.9" />
+		<att name="Genero" value="Animation; Adventure; Comedy;" />
+	</instance>
+	<instance id="Brave" >
+		<att name="Titulo" value="Brave" />
+		<att name="Ano" value="2012" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.2" />
+		<att name="Genero" value="Animation; Action; Adventure;" />
+	</instance>
+	<instance id="Maleficent" >
+		<att name="Titulo" value="Maleficent" />
+		<att name="Ano" value="2014" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="N/A" />
+		<att name="Genero" value="Animation; Talk-Show;" />
+	</instance>
+	<instance id="Divergent" >
+		<att name="Titulo" value="Divergent" />
+		<att name="Ano" value="2014" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.4" />
+		<att name="Genero" value="Adventure; Romance; Sci-Fi;" />
+	</instance>
+	<instance id="The Hunger Games" >
+		<att name="Titulo" value="The Hunger Games" />
+		<att name="Ano" value="2012" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.3" />
+		<att name="Genero" value="Adventure; Sci-Fi;" />
+	</instance>
+	<instance id="Teenage Mutant Ninja Turtles" >
+		<att name="Titulo" value="Teenage Mutant Ninja Turtles" />
+		<att name="Ano" value="1990" />
+		<att name="Idioma" value="English; French;" />
+		<att name="Nota" value="6.7" />
+		<att name="Genero" value="Action; Adventure; Comedy;" />
+	</instance>
+	<instance id="The Hobbit" >
+		<att name="Titulo" value="The Hobbit" />
+		<att name="Ano" value="1977" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="6.7" />
+		<att name="Genero" value="Animation; Adventure; Family;" />
+	</instance>
+	<instance id="Lord of the Rings" >
+		<att name="Titulo" value="Lord of the Rings" />
+		<att name="Ano" value="1990" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="6.8" />
+		<att name="Genero" value="Adventure; Fantasy;" />
+	</instance>
+	<instance id="Star Trek Into Darkness" >
+		<att name="Titulo" value="Star Trek Into Darkness" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English; Klingon;" />
+		<att name="Nota" value="7.9" />
+		<att name="Genero" value="Action; Adventure; Sci-Fi;" />
+	</instance>
+	<instance id="The Wolverine" >
+		<att name="Titulo" value="The Wolverine" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English; Japanese;" />
+		<att name="Nota" value="6.8" />
+		<att name="Genero" value="Action; Adventure; Fantasy;" />
+	</instance>
+	<instance id="The Mortal Instruments: City of Bones" >
+		<att name="Titulo" value="The Mortal Instruments: City of Bones" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="6.0" />
+		<att name="Genero" value="Action; Adventure; Fantasy;" />
+	</instance>
+	<instance id="The Wolf of Wall Street" >
+		<att name="Titulo" value="The Wolf of Wall Street" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English; French;" />
+		<att name="Nota" value="8.4" />
+		<att name="Genero" value="Biography; Comedy; Crime;" />
+	</instance>
+	<instance id="Kick-Ass" >
+		<att name="Titulo" value="Kick-Ass" />
+		<att name="Ano" value="2010" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.8" />
+		<att name="Genero" value="Action; Comedy;" />
+	</instance>
+	<instance id="Grown Ups" >
+		<att name="Titulo" value="Grown Ups" />
+		<att name="Ano" value="2010" />
+		<att name="Idioma" value="English; Spanish;" />
+		<att name="Nota" value="5.9" />
+		<att name="Genero" value="Comedy;" />
+	</instance>
+	<instance id="The Hangover" >
+		<att name="Titulo" value="The Hangover" />
+		<att name="Ano" value="2009" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.8" />
+		<att name="Genero" value="Comedy;" />
+	</instance>
+	<instance id="The Internship" >
+		<att name="Titulo" value="The Internship" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English; Tagalog; Cantonese; Mandarin; Spanish;" />
+		<att name="Nota" value="6.4" />
+		<att name="Genero" value="Comedy;" />
+	</instance>
+	<instance id="Zombieland" >
+		<att name="Titulo" value="Zombieland" />
+		<att name="Ano" value="2009" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.8" />
+		<att name="Genero" value="Comedy; Horror;" />
+	</instance>
+	<instance id="Ghostbusters" >
+		<att name="Titulo" value="Ghostbusters" />
+		<att name="Ano" value="1984" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="7.8" />
+		<att name="Genero" value="Comedy; Fantasy; Sci-Fi;" />
+	</instance>
+	<instance id="Back to the Future" >
+		<att name="Titulo" value="Back to the Future" />
+		<att name="Ano" value="1985" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.5" />
+		<att name="Genero" value="Adventure; Comedy; Sci-Fi;" />
+	</instance>
+	<instance id="Charlie and the Chocolate Factory" >
+		<att name="Titulo" value="Charlie and the Chocolate Factory" />
+		<att name="Ano" value="2005" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="6.8" />
+		<att name="Genero" value="Adventure; Comedy; Family;" />
+	</instance>
+	<instance id="Movie 43" >
+		<att name="Titulo" value="Movie 43" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="4.4" />
+		<att name="Genero" value="Comedy;" />
+	</instance>
+	<instance id="The Dark Knight" >
+		<att name="Titulo" value="The Dark Knight" />
+		<att name="Ano" value="2008" />
+		<att name="Idioma" value="English; Mandarin;" />
+		<att name="Nota" value="9.0" />
+		<att name="Genero" value="Action; Crime; Drama;" />
+	</instance>
+	<instance id="The Shawshank Redemption" >
+		<att name="Titulo" value="The Shawshank Redemption" />
+		<att name="Ano" value="1994" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="9.3" />
+		<att name="Genero" value="Crime; Drama;" />
+	</instance>
+	<instance id="Prisoners" >
+		<att name="Titulo" value="Prisoners" />
+		<att name="Ano" value="2013" />
+		<att name="Idioma" value="English;" />
+		<att name="Nota" value="8.1" />
+		<att name="Genero" value="Crime; Drama; Thriller;" />
+	</instance>
