@@ -21,7 +21,7 @@ def get_movie_data(title):
 	title = movie_data["Title"]
 	year = movie_data["Year"]
 	language = movie_data["Language"]
-	language = language.replace(",", ";") + ";"
+	language = language.replace(", ", ";") + ";"
 	rating = movie_data["imdbRating"]
 	genre = movie_data["Genre"]
 	genre = genre.replace(", ", ";") + ";"
